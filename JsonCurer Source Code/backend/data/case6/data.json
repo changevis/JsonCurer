@@ -1,0 +1,93 @@
+[{
+    "sizes": {
+        "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+        },
+        "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+        },
+        "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+        },
+        "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+        }
+    }
+}, {
+    "sizes": {
+        "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+        },
+        "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+        },
+        "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+        },
+        "large": {
+            "w": 1000,
+            "h": 1333,
+            "resize": "fit"
+        }
+    }
+}, {
+    "sizes": {
+        "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+        },
+        "medium": {
+            "w": 1000,
+            "h": 1000,
+            "resize": "fit"
+        },
+        "large": {
+            "w": 1000,
+            "h": 1000,
+            "resize": "fit"
+        },
+        "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+        }
+    }
+}, {
+    "sizes": {
+        "large": {
+            "w": 1200,
+            "h": 720,
+            "resize": "fit"
+        },
+        "medium": {
+            "w": 1200,
+            "h": 720,
+            "resize": "fit"
+        },
+        "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+        },
+        "small": {
+            "w": 680,
+            "h": 408,
+            "resize": "fit"
+        }
+    }
+}]

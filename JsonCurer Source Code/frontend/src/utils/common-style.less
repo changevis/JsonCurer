@@ -1,0 +1,53 @@
+@toolbarFontSize: 15px;
+@toolbarSpacing: 18px;
+
+.section-wrapper {
+  display: flex;
+  flex-flow: column;
+  width: 100%;
+  height: 100%;
+  .section-header {
+    font-size: 18px;
+    height: 26px;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: rgba(240, 234, 234, 0.9) 0px 1px 3px;
+  }
+  .head-text{
+    font-size: 20px;
+    font-weight: 600;
+    position: relative;
+    align-self: flex-start;
+    line-height: 24px;
+    padding-left: 2px;
+  }
+
+  .head-banner {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-style: solid;
+    height: 0;
+    width: 120px;
+    border-color: #90c1d760 transparent transparent transparent;
+    border-width: 26px 26px 0px 0px;
+  }
+
+  .toolbar {
+    align-self: center;
+  }
+
+  .toolbar {
+    font-size: @toolbarFontSize;
+    display: flex;
+    .controller{
+      margin-right: @toolbarSpacing;
+      display: flex;
+      align-items: center;
+      span {
+        margin-right: 2px;
+        align-self: flex-end;
+      }
+    }
+  }
+}

@@ -1,0 +1,4583 @@
+[
+  {
+    "host_year": 2014,
+    "host_city": "Athens",
+    "sport": "Aquatics",
+    "discipline": "Diving",
+    "events": [
+      {
+        "name": "10m platform",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Bronze",
+          "Gold"
+        ],
+        "country": [
+          "Australia",
+          "China",
+          "China"
+        ]
+      },
+      {
+        "name": "10m platform",
+        "gender": "Women",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "China",
+          "Australia",
+          "Australia"
+        ]
+      },
+      {
+        "name": "3m springboard",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Bronze",
+          "Gold"
+        ],
+        "country": [
+          "Canada",
+          "Russia",
+          "China"
+        ]
+      },
+      {
+        "name": "3m springboard",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ],
+        "country": [
+          "Russia",
+          "China",
+          "China"
+        ]
+      },
+      {
+        "name": "synchronized diving 10m platform",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "Australia",
+          "United Kingdom",
+          "China"
+        ]
+      },
+      {
+        "name": "synchronized diving 10m platform",
+        "gender": "Women",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "China",
+          "Canada",
+          "Russia"
+        ]
+      },
+      {
+        "name": "synchronized diving 3m springboard",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ],
+        "country": [
+          "Australia",
+          "Greece",
+          "Germany"
+        ]
+      },
+      {
+        "name": "synchronized diving 3m springboard",
+        "gender": "Women",
+        "medal": [
+          "Silver",
+          "Bronze",
+          "Gold"
+        ],
+        "country": [
+          "Russia",
+          "Australia",
+          "China"
+        ]
+      }
+    ]
+  },
+  {
+    "host_year": 2014,
+    "host_city": "Athens",
+    "sport": "Aquatics",
+    "discipline": "Swimming",
+    "events": [
+      {
+        "name": "100m backstroke",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "United States",
+          "Japan",
+          "Austria"
+        ]
+      },
+      {
+        "name": "100m backstroke",
+        "gender": "Women",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "Zimbabwe",
+          "United States",
+          "France"
+        ]
+      },
+      {
+        "name": "100m breaststroke",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "France",
+          "United States",
+          "Japan"
+        ]
+      },
+      {
+        "name": "100m breaststroke",
+        "gender": "Women",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "China",
+          "Australia",
+          "Australia"
+        ]
+      },
+      {
+        "name": "100m butterfly",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "United States",
+          "United States",
+          "Ukraine"
+        ]
+      },
+      {
+        "name": "100m butterfly",
+        "gender": "Women",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "Poland",
+          "Australia",
+          "Netherlands"
+        ]
+      },
+      {
+        "name": "100m freestyle",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "Netherlands",
+          "Australia",
+          "South Africa"
+        ]
+      },
+      {
+        "name": "100m freestyle",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ],
+        "country": [
+          "United States",
+          "Australia",
+          "Netherlands"
+        ]
+      },
+      {
+        "name": "1500m freestyle",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "United States",
+          "Australia",
+          "United Kingdom"
+        ]
+      },
+      {
+        "name": "200m backstroke",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "Austria",
+          "United States",
+          "Romania"
+        ]
+      },
+      {
+        "name": "200m backstroke",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "Japan",
+          "Germany",
+          "Russia",
+          "Zimbabwe"
+        ]
+      },
+      {
+        "name": "200m breaststroke",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "Japan",
+          "Hungary",
+          "United States"
+        ]
+      },
+      {
+        "name": "200m breaststroke",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "Germany",
+          "Australia",
+          "United States"
+        ]
+      },
+      {
+        "name": "200m butterfly",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "Japan",
+          "United States",
+          "United Kingdom"
+        ]
+      },
+      {
+        "name": "200m butterfly",
+        "gender": "Women",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "Poland",
+          "Japan",
+          "Australia"
+        ]
+      },
+      {
+        "name": "200m freestyle",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "Netherlands",
+          "Australia",
+          "United States"
+        ]
+      },
+      {
+        "name": "200m freestyle",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ],
+        "country": [
+          "France",
+          "Romania",
+          "Italy"
+        ]
+      },
+      {
+        "name": "200m individual medley",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "United States",
+          "United States",
+          "Trinidad and Tobago"
+        ]
+      },
+      {
+        "name": "200m individual medley",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "Zimbabwe",
+          "United States",
+          "Ukraine"
+        ]
+      },
+      {
+        "name": "400m freestyle",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "Australia",
+          "Australia",
+          "United States"
+        ]
+      },
+      {
+        "name": "400m freestyle",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "United States",
+          "Poland",
+          "France"
+        ]
+      },
+      {
+        "name": "400m individual medley",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "United States",
+          "United States",
+          "Hungary"
+        ]
+      },
+      {
+        "name": "400m individual medley",
+        "gender": "Women",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "Ukraine",
+          "Argentina",
+          "United States"
+        ]
+      },
+      {
+        "name": "4x100m freestyle relay",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Bronze",
+          "Gold"
+        ],
+        "country": [
+          "Netherlands",
+          "United States",
+          "South Africa"
+        ]
+      },
+      {
+        "name": "4x100m freestyle relay",
+        "gender": "Women",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "Australia",
+          "United States",
+          "Netherlands"
+        ]
+      },
+      {
+        "name": "4x100m medley relay",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ],
+        "country": [
+          "Japan",
+          "United States",
+          "Germany"
+        ]
+      },
+      {
+        "name": "4x100m medley relay",
+        "gender": "Women",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "Australia",
+          "United States",
+          "Germany"
+        ]
+      },
+      {
+        "name": "4x200m freestyle relay",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Bronze",
+          "Gold"
+        ],
+        "country": [
+          "Australia",
+          "Italy",
+          "United States"
+        ]
+      },
+      {
+        "name": "4x200m freestyle relay",
+        "gender": "Women",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "United States",
+          "Germany",
+          "China"
+        ]
+      },
+      {
+        "name": "50m freestyle",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "United States",
+          "South Africa",
+          "Croatia"
+        ]
+      },
+      {
+        "name": "50m freestyle",
+        "gender": "Women",
+        "medal": [
+          "Silver",
+          "Bronze",
+          "Gold"
+        ],
+        "country": [
+          "France",
+          "Australia",
+          "Netherlands"
+        ]
+      },
+      {
+        "name": "800m freestyle",
+        "gender": "Women",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "France",
+          "Japan",
+          "United States"
+        ]
+      }
+    ]
+  },
+  {
+    "host_year": 2014,
+    "host_city": "Athens",
+    "sport": "Aquatics",
+    "discipline": "Synchronized S.",
+    "events": [
+      {
+        "name": "duet",
+        "gender": "Women",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "Russia",
+          "Japan",
+          "United States"
+        ]
+      },
+      {
+        "name": "team",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ],
+        "country": [
+          "United States",
+          "Russia",
+          "Japan"
+        ]
+      }
+    ]
+  },
+  {
+    "host_year": 2014,
+    "host_city": "Athens",
+    "sport": "Aquatics",
+    "discipline": "Water polo",
+    "events": [
+      {
+        "name": "water polo",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Bronze",
+          "Gold"
+        ],
+        "country": [
+          "Serbia",
+          "Russia",
+          "Hungary"
+        ]
+      },
+      {
+        "name": "water polo",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ],
+        "country": [
+          "United States",
+          "Italy",
+          "Greece"
+        ]
+      }
+    ]
+  },
+  {
+    "host_year": 2014,
+    "host_city": "Athens",
+    "sport": "Archery",
+    "events": [
+      {
+        "name": "individual (FITA Olympic round - 70m)",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "Japan",
+          "Italy",
+          "Australia"
+        ]
+      },
+      {
+        "name": "individual (FITA Olympic round - 70m)",
+        "gender": "Women",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "Korea, South",
+          "Korea, South",
+          "United Kingdom"
+        ]
+      },
+      {
+        "name": "team (FITA Olympic round - 70m)",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "Taiwan",
+          "Korea, South",
+          "Ukraine"
+        ]
+      },
+      {
+        "name": "team (FITA Olympic round - 70m)",
+        "gender": "Women",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "Korea, South",
+          "China",
+          "Taiwan"
+        ]
+      }
+    ]
+  },
+  {
+    "host_year": 2014,
+    "host_city": "Athens",
+    "sport": "Athletics",
+    "discipline": "Athletics",
+    "events": [
+      {
+        "name": "10000m",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "Ethiopia",
+          "Ethiopia",
+          "Eritrea"
+        ]
+      },
+      {
+        "name": "10000m",
+        "gender": "Women",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "Ethiopia",
+          "China",
+          "Ethiopia"
+        ]
+      },
+      {
+        "name": "100m",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "United States",
+          "Portugal",
+          "United States"
+        ]
+      },
+      {
+        "name": "100m",
+        "gender": "Women",
+        "medal": [
+          "Silver",
+          "Bronze",
+          "Gold"
+        ],
+        "country": [
+          "United States",
+          "Jamaica",
+          "Belarus"
+        ]
+      },
+      {
+        "name": "100m hurdles",
+        "gender": "Women",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "Ukraine",
+          "United States",
+          "United States"
+        ]
+      },
+      {
+        "name": "110m hurdles",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Bronze",
+          "Gold"
+        ],
+        "country": [
+          "United States",
+          "Cuba",
+          "China"
+        ]
+      },
+      {
+        "name": "1500m",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ],
+        "country": [
+          "Portugal",
+          "Morocco",
+          "Kenya"
+        ]
+      },
+      {
+        "name": "1500m",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ],
+        "country": [
+          "Romania",
+          "United Kingdom",
+          "Russia"
+        ]
+      },
+      {
+        "name": "200m",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "United States",
+          "United States",
+          "United States"
+        ]
+      },
+      {
+        "name": "200m",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "Bahamas",
+          "United States",
+          "Jamaica"
+        ]
+      },
+      {
+        "name": "20km race walk",
+        "gender": "Women",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "Greece",
+          "Russia",
+          "Australia"
+        ]
+      },
+      {
+        "name": "20km walk",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "Italy",
+          "Australia",
+          "Spain"
+        ]
+      },
+      {
+        "name": "3000m steeplechase",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ],
+        "country": [
+          "Kenya",
+          "Kenya",
+          "Kenya"
+        ]
+      },
+      {
+        "name": "400m",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "United States",
+          "United States",
+          "United States"
+        ]
+      },
+      {
+        "name": "400m",
+        "gender": "Women",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "Bahamas",
+          "Russia",
+          "Mexico"
+        ]
+      },
+      {
+        "name": "400m hurdles",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "Dominican Republic",
+          "Jamaica",
+          "France"
+        ]
+      },
+      {
+        "name": "400m hurdles",
+        "gender": "Women",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "Greece",
+          "Ukraine",
+          "Romania"
+        ]
+      },
+      {
+        "name": "4x100m relay",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ],
+        "country": [
+          "Nigeria",
+          "United Kingdom",
+          "United States"
+        ]
+      },
+      {
+        "name": "4x100m relay",
+        "gender": "Women",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "Russia",
+          "Jamaica",
+          "France"
+        ]
+      },
+      {
+        "name": "4x400m relay",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "United States",
+          "Nigeria",
+          "Australia"
+        ]
+      },
+      {
+        "name": "4x400m relay",
+        "gender": "Women",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "United States",
+          "Russia",
+          "Jamaica"
+        ]
+      },
+      {
+        "name": "5000m",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "Ethiopia",
+          "Morocco",
+          "Kenya"
+        ]
+      },
+      {
+        "name": "5000m",
+        "gender": "Women",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "Ethiopia",
+          "Ethiopia",
+          "Kenya"
+        ]
+      },
+      {
+        "name": "50km walk",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "Poland",
+          "Russia",
+          "Russia"
+        ]
+      },
+      {
+        "name": "800m",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "South Africa",
+          "Russia",
+          "Denmark"
+        ]
+      },
+      {
+        "name": "800m",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "Slovenia",
+          "Morocco",
+          "United Kingdom"
+        ]
+      },
+      {
+        "name": "decathlon",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ],
+        "country": [
+          "Kazakhstan",
+          "Czech Republic",
+          "United States"
+        ]
+      },
+      {
+        "name": "discus throw",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "Hungary",
+          "Lithuania",
+          "Estonia"
+        ]
+      },
+      {
+        "name": "discus throw",
+        "gender": "Women",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "Greece",
+          "Russia",
+          "Belarus"
+        ]
+      },
+      {
+        "name": "hammer throw",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "Japan",
+          "Belarus",
+          "Turkey"
+        ]
+      },
+      {
+        "name": "hammer throw",
+        "gender": "Women",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "Russia",
+          "Cuba",
+          "Cuba"
+        ]
+      },
+      {
+        "name": "heptathlon",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ],
+        "country": [
+          "United Kingdom",
+          "Sweden",
+          "Lithuania"
+        ]
+      },
+      {
+        "name": "high jump",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Bronze",
+          "Gold"
+        ],
+        "country": [
+          "United States",
+          "Czech Republic",
+          "Sweden"
+        ]
+      },
+      {
+        "name": "high jump",
+        "gender": "Women",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "Russia",
+          "Ukraine",
+          "South Africa"
+        ]
+      },
+      {
+        "name": "javelin throw",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "Norway",
+          "Russia",
+          "Latvia"
+        ]
+      },
+      {
+        "name": "javelin throw",
+        "gender": "Women",
+        "medal": [
+          "Silver",
+          "Bronze",
+          "Gold"
+        ],
+        "country": [
+          "Germany",
+          "Greece",
+          "Cuba"
+        ]
+      },
+      {
+        "name": "long jump",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "United States",
+          "United States",
+          "Spain"
+        ]
+      },
+      {
+        "name": "long jump",
+        "gender": "Women",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "Russia",
+          "Russia",
+          "Russia"
+        ]
+      },
+      {
+        "name": "marathon",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "Brazil",
+          "United States",
+          "Italy"
+        ]
+      },
+      {
+        "name": "marathon",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ],
+        "country": [
+          "United States",
+          "Japan",
+          "Kenya"
+        ]
+      },
+      {
+        "name": "pole vault",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "United States",
+          "United States",
+          "Italy"
+        ]
+      },
+      {
+        "name": "pole vault",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ],
+        "country": [
+          "Poland",
+          "Russia",
+          "Russia"
+        ]
+      },
+      {
+        "name": "shot put",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "Ukraine",
+          "United States",
+          "Denmark"
+        ]
+      },
+      {
+        "name": "shot put",
+        "gender": "Women",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "Germany",
+          "Cuba",
+          "Russia"
+        ]
+      },
+      {
+        "name": "triple jump",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "Sweden",
+          "Russia",
+          "Romania"
+        ]
+      },
+      {
+        "name": "triple jump",
+        "gender": "Women",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "Cameroon",
+          "Greece",
+          "Russia"
+        ]
+      }
+    ]
+  },
+  {
+    "host_year": 2014,
+    "host_city": "Athens",
+    "sport": "Badminton",
+    "discipline": "Badminton",
+    "events": [
+      {
+        "name": "doubles",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Bronze",
+          "Gold"
+        ],
+        "country": [
+          "Korea, South",
+          "Indonesia",
+          "Korea, South"
+        ]
+      },
+      {
+        "name": "doubles",
+        "gender": "Women",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "China",
+          "China",
+          "Korea, South"
+        ]
+      },
+      {
+        "name": "doubles",
+        "gender": "Mixed",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "China",
+          "United Kingdom",
+          "Denmark"
+        ]
+      },
+      {
+        "name": "singles",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "Indonesia",
+          "Indonesia",
+          "Korea, South"
+        ]
+      },
+      {
+        "name": "singles",
+        "gender": "Women",
+        "medal": [
+          "Silver",
+          "Bronze",
+          "Gold"
+        ],
+        "country": [
+          "Netherlands",
+          "China",
+          "China"
+        ]
+      }
+    ]
+  },
+  {
+    "host_year": 2014,
+    "host_city": "Athens",
+    "sport": "Baseball",
+    "discipline": "Baseball",
+    "events": [
+      {
+        "name": "baseball",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "Cuba",
+          "Australia",
+          "Japan"
+        ]
+      }
+    ]
+  },
+  {
+    "host_year": 2014,
+    "host_city": "Athens",
+    "sport": "Basketball",
+    "discipline": "Basketball",
+    "events": [
+      {
+        "name": "basketball",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Bronze",
+          "Gold"
+        ],
+        "country": [
+          "Italy",
+          "United States",
+          "Argentina"
+        ]
+      },
+      {
+        "name": "basketball",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "Russia",
+          "Australia",
+          "United States"
+        ]
+      }
+    ]
+  },
+  {
+    "host_year": 2014,
+    "host_city": "Athens",
+    "sport": "Boxing",
+    "discipline": "Boxing",
+    "events": [
+      {
+        "name": "+ 91kg (super heavyweight)",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "Russia",
+          "Cuba",
+          "Egypt",
+          "Italy"
+        ]
+      },
+      {
+        "name": "48 - 51kg (flyweight)",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Bronze",
+          "Gold"
+        ],
+        "country": [
+          "Azerbaijan",
+          "France",
+          "Germany",
+          "Cuba"
+        ]
+      },
+      {
+        "name": "48kg (light flywieght)",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "Russia",
+          "China",
+          "Turkey",
+          "Cuba"
+        ]
+      },
+      {
+        "name": "51 - 54kg (bantamweight)",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Bronze",
+          "Bronze",
+          "Gold"
+        ],
+        "country": [
+          "Thailand",
+          "Azerbaijan",
+          "Uzbekistan",
+          "Cuba"
+        ]
+      },
+      {
+        "name": "54 - 57kg (featherweight)",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "Russia",
+          "Korea, South",
+          "Germany",
+          "Korea, North"
+        ]
+      },
+      {
+        "name": "57 - 60kg (lightweight)",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Bronze",
+          "Bronze",
+          "Gold"
+        ],
+        "country": [
+          "United Kingdom",
+          "Russia",
+          "Kazakhstan",
+          "Cuba"
+        ]
+      },
+      {
+        "name": "60 - 64 kg",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Bronze",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "Cuba",
+          "Romania",
+          "Thailand",
+          "Bulgaria"
+        ]
+      },
+      {
+        "name": "64 - 69 kg",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "Korea, South",
+          "Russia",
+          "Cuba",
+          "Kazakhstan"
+        ]
+      },
+      {
+        "name": "69 - 75 kg",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze",
+          "Bronze"
+        ],
+        "country": [
+          "Kazakhstan",
+          "Russia",
+          "Thailand",
+          "United States"
+        ]
+      },
+      {
+        "name": "75 - 81kg (light-heavyweight)",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "Uzbekistan",
+          "Egypt",
+          "Belarus",
+          "United States"
+        ]
+      },
+      {
+        "name": "81 - 91kg (heavyweight)",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "Syria",
+          "Egypt",
+          "Belarus",
+          "Cuba"
+        ]
+      }
+    ]
+  },
+  {
+    "host_year": 2014,
+    "host_city": "Athens",
+    "sport": "Canoe / Kayak",
+    "discipline": "Canoe / Kayak F",
+    "events": [
+      {
+        "name": "C-1 1000m (canoe single)",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "Hungary",
+          "Germany",
+          "Spain"
+        ]
+      },
+      {
+        "name": "C-1 500m (canoe single)",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "Spain",
+          "Germany",
+          "Russia"
+        ]
+      },
+      {
+        "name": "C-2 1000m (canoe double)",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ],
+        "country": [
+          "Hungary",
+          "Germany",
+          "Russia"
+        ]
+      },
+      {
+        "name": "C-2 500m (canoe double)",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "Cuba",
+          "China",
+          "Russia"
+        ]
+      },
+      {
+        "name": "K-1 1000m (kayak single)",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "Canada",
+          "New Zealand",
+          "Norway"
+        ]
+      },
+      {
+        "name": "K-1 500m (kayak single)",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "Canada",
+          "United Kingdom",
+          "Australia"
+        ]
+      },
+      {
+        "name": "K-1 500m (kayak single)",
+        "gender": "Women",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "Hungary",
+          "Canada",
+          "Italy"
+        ]
+      },
+      {
+        "name": "K-2 1000m (kayak double)",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "Sweden",
+          "Norway",
+          "Italy"
+        ]
+      },
+      {
+        "name": "K-2 500m (kayak double)",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ],
+        "country": [
+          "Belarus",
+          "Germany",
+          "Australia"
+        ]
+      },
+      {
+        "name": "K-2 500m (kayak double)",
+        "gender": "Women",
+        "medal": [
+          "Silver",
+          "Bronze",
+          "Gold"
+        ],
+        "country": [
+          "Germany",
+          "Poland",
+          "Hungary"
+        ]
+      },
+      {
+        "name": "K-4 1000m (kayak four)",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "Hungary",
+          "Germany",
+          "Slovakia"
+        ]
+      },
+      {
+        "name": "K-4 500m (kayak four)",
+        "gender": "Women",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "Hungary",
+          "Germany",
+          "Ukraine"
+        ]
+      }
+    ]
+  },
+  {
+    "host_year": 2014,
+    "host_city": "Athens",
+    "sport": "Canoe / Kayak",
+    "discipline": "Canoe / Kayak S",
+    "events": [
+      {
+        "name": "C-1 (canoe single)",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "France",
+          "Slovakia",
+          "Germany"
+        ]
+      },
+      {
+        "name": "C-2 (canoe double)",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "Czech Republic",
+          "Germany",
+          "Slovakia"
+        ]
+      },
+      {
+        "name": "K-1 (kayak single)",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ],
+        "country": [
+          "France",
+          "France",
+          "United Kingdom"
+        ]
+      },
+      {
+        "name": "K-1 (kayak single)",
+        "gender": "Women",
+        "medal": [
+          "Silver",
+          "Bronze",
+          "Gold"
+        ],
+        "country": [
+          "United States",
+          "United Kingdom",
+          "Slovakia"
+        ]
+      }
+    ]
+  },
+  {
+    "host_year": 2014,
+    "host_city": "Athens",
+    "sport": "Cycling",
+    "discipline": "Cycling Road",
+    "events": [
+      {
+        "name": "individual road race",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "Italy",
+          "Belgium",
+          "Portugal"
+        ]
+      },
+      {
+        "name": "individual road race",
+        "gender": "Women",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "Germany",
+          "Australia",
+          "Russia"
+        ]
+      },
+      {
+        "name": "individual time trial",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "Russia",
+          "United States",
+          "United States"
+        ]
+      },
+      {
+        "name": "individual time trial",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "Switzerland",
+          "United States",
+          "Netherlands"
+        ]
+      }
+    ]
+  },
+  {
+    "host_year": 2014,
+    "host_city": "Athens",
+    "sport": "Cycling",
+    "discipline": "Cycling Track",
+    "events": [
+      {
+        "name": "1km time trial",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ],
+        "country": [
+          "Germany",
+          "United Kingdom",
+          "France"
+        ]
+      },
+      {
+        "name": "500m time trial",
+        "gender": "Women",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "Australia",
+          "Belarus",
+          "China"
+        ]
+      },
+      {
+        "name": "Individual Pursuit",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "Australia",
+          "United Kingdom",
+          "Spain"
+        ]
+      },
+      {
+        "name": "individual pursuit",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ],
+        "country": [
+          "Netherlands",
+          "New Zealand",
+          "Australia"
+        ]
+      },
+      {
+        "name": "Keirin",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "Australia",
+          "Spain",
+          "Australia"
+        ]
+      },
+      {
+        "name": "Madison",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "Switzerland",
+          "Australia",
+          "United Kingdom"
+        ]
+      },
+      {
+        "name": "Points Race",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "Spain",
+          "Russia",
+          "Germany"
+        ]
+      },
+      {
+        "name": "points race",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "Colombia",
+          "Mexico",
+          "Russia"
+        ]
+      },
+      {
+        "name": "sprint",
+        "gender": "Women",
+        "medal": [
+          "Silver",
+          "Bronze",
+          "Gold"
+        ],
+        "country": [
+          "Russia",
+          "Australia",
+          "Canada"
+        ]
+      },
+      {
+        "name": "Sprint indivual",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "Germany",
+          "Netherlands",
+          "Australia"
+        ]
+      },
+      {
+        "name": "Team Pursuit (4000m)",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "United Kingdom",
+          "Australia",
+          "Spain"
+        ]
+      },
+      {
+        "name": "Team Sprint",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "France",
+          "Japan",
+          "Germany"
+        ]
+      }
+    ]
+  },
+  {
+    "host_year": 2014,
+    "host_city": "Athens",
+    "sport": "Cycling",
+    "discipline": "Mountain Bike",
+    "events": [
+      {
+        "name": "cross-country",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Bronze",
+          "Gold"
+        ],
+        "country": [
+          "Spain",
+          "Netherlands",
+          "France"
+        ]
+      },
+      {
+        "name": "cross-country",
+        "gender": "Women",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "Norway",
+          "Germany",
+          "Canada"
+        ]
+      }
+    ]
+  },
+  {
+    "host_year": 2014,
+    "host_city": "Athens",
+    "sport": "Equestrian",
+    "discipline": "Dressage",
+    "events": [
+      {
+        "name": "individual",
+        "gender": "Mixed",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "Spain",
+          "Germany",
+          "Netherlands"
+        ]
+      },
+      {
+        "name": "team",
+        "gender": "Mixed",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ],
+        "country": [
+          "United States",
+          "Germany",
+          "Spain"
+        ]
+      }
+    ]
+  },
+  {
+    "host_year": 2014,
+    "host_city": "Athens",
+    "sport": "Equestrian",
+    "discipline": "Eventing",
+    "events": [
+      {
+        "name": "individual",
+        "gender": "Mixed",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "United Kingdom",
+          "United Kingdom",
+          "United States"
+        ]
+      },
+      {
+        "name": "team",
+        "gender": "Mixed",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "France",
+          "United Kingdom",
+          "United States"
+        ]
+      }
+    ]
+  },
+  {
+    "host_year": 2014,
+    "host_city": "Athens",
+    "sport": "Equestrian",
+    "discipline": "Jumping",
+    "events": [
+      {
+        "name": "individual",
+        "gender": "Mixed",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "United States",
+          "Brazil",
+          "Germany"
+        ]
+      },
+      {
+        "name": "team",
+        "gender": "Mixed",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "Sweden",
+          "United States",
+          "Germany"
+        ]
+      }
+    ]
+  },
+  {
+    "host_year": 2012,
+    "host_city": "Athens",
+    "sport": "Fencing",
+    "discipline": "Fencing",
+    "events": [
+      {
+        "name": "foil individual",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "Italy",
+          "Italy",
+          "France"
+        ]
+      },
+      {
+        "name": "foil individual",
+        "gender": "Women",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "Italy",
+          "Poland",
+          "Italy"
+        ]
+      },
+      {
+        "name": "foil team",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ],
+        "country": [
+          "Russia",
+          "Italy",
+          "China"
+        ]
+      },
+      {
+        "name": "sabre individual",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "Ukraine",
+          "Hungary",
+          "Italy"
+        ]
+      },
+      {
+        "name": "sabre individual",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ],
+        "country": [
+          "United States",
+          "United States",
+          "China"
+        ]
+      },
+      {
+        "name": "sabre team",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Bronze",
+          "Gold"
+        ],
+        "country": [
+          "Italy",
+          "Russia",
+          "France"
+        ]
+      },
+      {
+        "name": "閜閑 individual",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "Russia",
+          "China",
+          "Switzerland"
+        ]
+      },
+      {
+        "name": "閜閑 individual",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "France",
+          "France",
+          "Hungary"
+        ]
+      },
+      {
+        "name": "閜閑 team",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "France",
+          "Hungary",
+          "Germany"
+        ]
+      },
+      {
+        "name": "閜閑 team",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "France",
+          "Germany",
+          "Russia"
+        ]
+      }
+    ]
+  },
+  {
+    "host_year": 2014,
+    "host_city": "Athens",
+    "sport": "Football",
+    "discipline": "Football",
+    "events": {
+      "Men": {
+        "name": "football",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "Italy",
+          "Paraguay",
+          "Argentina"
+        ]
+      },
+      "women": {
+        "name": "football",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ],
+        "country": [
+          "Germany",
+          "United States",
+          "Brazil"
+        ]
+      }
+    }
+  },
+  {
+    "host_year": 2014,
+    "host_city": "Athens",
+    "sport": "Gymnastics",
+    "discipline": "Artistic G.",
+    "events": [
+      {
+        "name": "balance beam",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ],
+        "country": [
+          "Romania",
+          "Romania",
+          "United States"
+        ]
+      },
+      {
+        "name": "floor exercises",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Bronze",
+          "Gold"
+        ],
+        "country": [
+          "Romania",
+          "Bulgaria",
+          "Canada"
+        ]
+      },
+      {
+        "name": "floor exercises",
+        "gender": "Women",
+        "medal": [
+          "Silver",
+          "Bronze",
+          "Gold"
+        ],
+        "country": [
+          "Romania",
+          "Spain",
+          "Romania"
+        ]
+      },
+      {
+        "name": "horizontal bar",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "Italy",
+          "United States",
+          "Japan"
+        ]
+      },
+      {
+        "name": "individual all-round",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "Korea, South",
+          "United States",
+          "Korea, South"
+        ]
+      },
+      {
+        "name": "individual all-round",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "China",
+          "Russia",
+          "United States"
+        ]
+      },
+      {
+        "name": "parallel bars",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "China",
+          "Japan",
+          "Ukraine"
+        ]
+      },
+      {
+        "name": "pommel horse",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ],
+        "country": [
+          "Japan",
+          "China",
+          "Romania"
+        ]
+      },
+      {
+        "name": "rings",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ],
+        "country": [
+          "Italy",
+          "Greece",
+          "Bulgaria"
+        ]
+      },
+      {
+        "name": "team competition",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Bronze",
+          "Gold"
+        ],
+        "country": [
+          "United States",
+          "Romania",
+          "Japan"
+        ]
+      },
+      {
+        "name": "team competition",
+        "gender": "Women",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "Romania",
+          "Russia",
+          "United States"
+        ]
+      },
+      {
+        "name": "uneven bars",
+        "gender": "Women",
+        "medal": [
+          "Silver",
+          "Bronze",
+          "Gold"
+        ],
+        "country": [
+          "United States",
+          "United States",
+          "France"
+        ]
+      },
+      {
+        "name": "vault",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ],
+        "country": [
+          "Romania",
+          "Spain",
+          "Latvia"
+        ]
+      },
+      {
+        "name": "vault",
+        "gender": "Women",
+        "medal": [
+          "Silver",
+          "Bronze",
+          "Gold"
+        ],
+        "country": [
+          "United States",
+          "Russia",
+          "Romania"
+        ]
+      }
+    ]
+  },
+  {
+    "host_year": 2014,
+    "host_city": "Athens",
+    "sport": "Gymnastics",
+    "discipline": "Rhythmic G.",
+    "events": [
+      {
+        "name": "group competition",
+        "gender": "Women",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "Russia",
+          "Italy",
+          "Bulgaria"
+        ]
+      },
+      {
+        "name": "individual all-round",
+        "gender": "Women",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "Russia",
+          "Russia",
+          "Ukraine"
+        ]
+      }
+    ]
+  },
+  {
+    "host_year": 2014,
+    "host_city": "Athens",
+    "sport": "Gymnastics",
+    "discipline": "Trampoline",
+    "events": [
+      {
+        "name": "individual",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Bronze",
+          "Gold"
+        ],
+        "country": [
+          "Russia",
+          "Germany",
+          "Ukraine"
+        ]
+      },
+      {
+        "name": "individual",
+        "gender": "Women",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "Germany",
+          "China",
+          "Canada"
+        ]
+      }
+    ]
+  },
+  {
+    "host_year": 2014,
+    "host_city": "Athens",
+    "sport": "Handball",
+    "discipline": "Handball",
+    "events": [
+      {
+        "name": "handball",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "Germany",
+          "Croatia",
+          "Russia"
+        ]
+      },
+      {
+        "name": "handball",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ],
+        "country": [
+          "Ukraine",
+          "Denmark",
+          "Korea, South"
+        ]
+      }
+    ]
+  },
+  {
+    "host_year": 2014,
+    "host_city": "Athens",
+    "sport": "Hockey",
+    "discipline": "Hockey",
+    "events": [
+      {
+        "name": "hockey",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "Australia",
+          "Germany",
+          "Netherlands"
+        ]
+      },
+      {
+        "name": "hockey",
+        "gender": "Women",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "Germany",
+          "Netherlands",
+          "Argentina"
+        ]
+      }
+    ]
+  },
+  {
+    "host_year": 2014,
+    "host_city": "Athens",
+    "sport": "Judo",
+    "discipline": "Judo",
+    "events": [
+      {
+        "name": "- 48 kg",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "China",
+          "France",
+          "Japan",
+          "Germany"
+        ]
+      },
+      {
+        "name": "- 60 kg",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "Korea, South",
+          "Georgia",
+          "Japan",
+          "Mongolia"
+        ]
+      },
+      {
+        "name": "+ 100kg (heavyweight)",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "Netherlands",
+          "Japan",
+          "Russia",
+          "Estonia"
+        ]
+      },
+      {
+        "name": "+ 78kg (heavyweight)",
+        "gender": "Women",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "Japan",
+          "Russia",
+          "Cuba",
+          "China"
+        ]
+      },
+      {
+        "name": "48 - 52kg (half-lightweight)",
+        "gender": "Women",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "China",
+          "Cuba",
+          "Japan",
+          "Belgium"
+        ]
+      },
+      {
+        "name": "52 - 57kg (lightweight)",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "Netherlands",
+          "Germany",
+          "Cuba",
+          "Korea, North"
+        ]
+      },
+      {
+        "name": "57 - 63kg (half-middleweight)",
+        "gender": "Women",
+        "medal": [
+          "Silver",
+          "Bronze",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "Austria",
+          "Cuba",
+          "Japan",
+          "Slovenia"
+        ]
+      },
+      {
+        "name": "60 - 66kg (half-lightweight)",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "Cuba",
+          "Bulgaria",
+          "Slovakia",
+          "Japan"
+        ]
+      },
+      {
+        "name": "63 - 70kg (middleweight)",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "China",
+          "Japan",
+          "Germany",
+          "Netherlands"
+        ]
+      },
+      {
+        "name": "66 - 73kg (lightweight)",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "United States",
+          "Russia",
+          "Korea, South",
+          "Brazil"
+        ]
+      },
+      {
+        "name": "70 - 78kg (half-heavyweight)",
+        "gender": "Women",
+        "medal": [
+          "Silver",
+          "Bronze",
+          "Bronze",
+          "Gold"
+        ],
+        "country": [
+          "China",
+          "Italy",
+          "Cuba",
+          "Japan"
+        ]
+      },
+      {
+        "name": "73 - 81kg (half-middleweight)",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "Greece",
+          "Russia",
+          "Brazil",
+          "Ukraine"
+        ]
+      },
+      {
+        "name": "81 - 90kg (middleweight)",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze",
+          "Bronze"
+        ],
+        "country": [
+          "Japan",
+          "Georgia",
+          "Netherlands",
+          "Russia"
+        ]
+      },
+      {
+        "name": "90 - 100kg (half-heavyweight)",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze",
+          "Bronze"
+        ],
+        "country": [
+          "Belarus",
+          "Korea, South",
+          "Germany",
+          "Israel"
+        ]
+      }
+    ]
+  },
+  {
+    "host_year": 2014,
+    "host_city": "Athens",
+    "sport": "Modern Pentathlon",
+    "discipline": "Modern Pentath.",
+    "events": [
+      {
+        "name": "Individual competition",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ],
+        "country": [
+          "Czech Republic",
+          "Russia",
+          "Lithuania"
+        ]
+      },
+      {
+        "name": "Individual competition",
+        "gender": "Women",
+        "medal": [
+          "Silver",
+          "Bronze",
+          "Gold"
+        ],
+        "country": [
+          "Latvia",
+          "United Kingdom",
+          "Hungary"
+        ]
+      }
+    ]
+  },
+  {
+    "host_year": 2014,
+    "host_city": "Athens",
+    "sport": "Rowing",
+    "discipline": "Rowing",
+    "events": [
+      {
+        "name": "coxless pair (2-)",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "Croatia",
+          "Australia",
+          "South Africa"
+        ]
+      },
+      {
+        "name": "double sculls (2x)",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "Italy",
+          "Slovenia",
+          "France"
+        ]
+      },
+      {
+        "name": "double sculls (2x)",
+        "gender": "Women",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "New Zealand",
+          "United Kingdom",
+          "Germany"
+        ]
+      },
+      {
+        "name": "eight with coxswain (8+)",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ],
+        "country": [
+          "Australia",
+          "United States",
+          "Netherlands"
+        ]
+      },
+      {
+        "name": "eight with coxswain (8+)",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "Netherlands",
+          "United States",
+          "Romania"
+        ]
+      },
+      {
+        "name": "four without coxswain (4-)",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ],
+        "country": [
+          "Italy",
+          "United Kingdom",
+          "Canada"
+        ]
+      },
+      {
+        "name": "lightweight coxless four (4-)",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "Denmark",
+          "Italy",
+          "Australia"
+        ]
+      },
+      {
+        "name": "lightweight double sculls (2x)",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "Poland",
+          "Greece",
+          "France"
+        ]
+      },
+      {
+        "name": "lightweight double sculls (2x)",
+        "gender": "Women",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "Romania",
+          "Germany",
+          "Netherlands"
+        ]
+      },
+      {
+        "name": "pair without coxswain (2-)",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ],
+        "country": [
+          "Belarus",
+          "Romania",
+          "United Kingdom"
+        ]
+      },
+      {
+        "name": "quadruple sculls without coxswain (4x)",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ],
+        "country": [
+          "Ukraine",
+          "Russia",
+          "Czech Republic"
+        ]
+      },
+      {
+        "name": "quadruple sculls without coxswain (4x)",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "Australia",
+          "United Kingdom",
+          "Germany"
+        ]
+      },
+      {
+        "name": "single sculls (1x)",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "Bulgaria",
+          "Estonia",
+          "Norway"
+        ]
+      },
+      {
+        "name": "single sculls (1x)",
+        "gender": "Women",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "Germany",
+          "Bulgaria",
+          "Belarus"
+        ]
+      }
+    ]
+  },
+  {
+    "host_year": 2014,
+    "host_city": "Athens",
+    "sport": "Sailing",
+    "discipline": "Sailing",
+    "events": [
+      {
+        "name": "470 - Two Person Dinghy",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "United States",
+          "United Kingdom",
+          "Japan"
+        ]
+      },
+      {
+        "name": "470 - Two Person Dinghy",
+        "gender": "Women",
+        "medal": [
+          "Silver",
+          "Bronze",
+          "Gold"
+        ],
+        "country": [
+          "Spain",
+          "Sweden",
+          "Greece"
+        ]
+      },
+      {
+        "name": "49er - Skiff",
+        "gender": "Mixed",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "Spain",
+          "Ukraine",
+          "United Kingdom"
+        ]
+      },
+      {
+        "name": "board (Mistral)",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "Israel",
+          "Greece",
+          "United Kingdom"
+        ]
+      },
+      {
+        "name": "board (Mistral)",
+        "gender": "Women",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "France",
+          "China",
+          "Italy"
+        ]
+      },
+      {
+        "name": "single-handed dinghy (Europe)",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "Denmark",
+          "Czech Republic",
+          "Norway"
+        ]
+      },
+      {
+        "name": "single-handed dinghy (Finn)",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Bronze",
+          "Gold"
+        ],
+        "country": [
+          "Spain",
+          "Poland",
+          "United Kingdom"
+        ]
+      },
+      {
+        "name": "single-handed dinghy open (Laser)",
+        "gender": "Mixed",
+        "medal": [
+          "Silver",
+          "Bronze",
+          "Gold"
+        ],
+        "country": [
+          "Austria",
+          "Slovenia",
+          "Brazil"
+        ]
+      },
+      {
+        "name": "Star - Keelboat",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "Brazil",
+          "Canada",
+          "France"
+        ]
+      },
+      {
+        "name": "Tornado - Multihull",
+        "gender": "Mixed",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "Austria",
+          "Argentina",
+          "United States"
+        ]
+      },
+      {
+        "name": "Yngling - Keelboat",
+        "gender": "Women",
+        "medal": [
+          "Silver",
+          "Bronze",
+          "Gold"
+        ],
+        "country": [
+          "Ukraine",
+          "Denmark",
+          "United Kingdom"
+        ]
+      }
+    ]
+  },
+  {
+    "host_year": 2014,
+    "host_city": "Athens",
+    "sport": "Shooting",
+    "discipline": "Shooting",
+    "events": [
+      {
+        "name": "10m air pistol (40 shots)",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ],
+        "country": [
+          "Bulgaria",
+          "Ukraine",
+          "Serbia"
+        ]
+      },
+      {
+        "name": "10m air pistol (60 shots)",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "Russia",
+          "Russia",
+          "China"
+        ]
+      },
+      {
+        "name": "10m air rifle (40 shots)",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "Czech Republic",
+          "Russia",
+          "China"
+        ]
+      },
+      {
+        "name": "10m air rifle (60 shots)",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Bronze",
+          "Gold"
+        ],
+        "country": [
+          "China",
+          "Slovakia",
+          "China"
+        ]
+      },
+      {
+        "name": "10m running target (30+30 shots)",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "Russia",
+          "Germany",
+          "Russia"
+        ]
+      },
+      {
+        "name": "25m pistol (30+30 shots)",
+        "gender": "Women",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "Czech Republic",
+          "Bulgaria",
+          "Azerbaijan"
+        ]
+      },
+      {
+        "name": "25m rapid fire pistol (60 shots)",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "Germany",
+          "Russia",
+          "Russia"
+        ]
+      },
+      {
+        "name": "50m pistol (60 shots)",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "Russia",
+          "Korea, South",
+          "Korea, North"
+        ]
+      },
+      {
+        "name": "50m rifle 3 positions (3x20 shots)",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ],
+        "country": [
+          "China",
+          "Russia",
+          "Italy"
+        ]
+      },
+      {
+        "name": "50m rifle 3 positions (3x40 shots)",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ],
+        "country": [
+          "Austria",
+          "China",
+          "United States"
+        ]
+      },
+      {
+        "name": "50m rifle prone (60 shots)",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "Belarus",
+          "Germany",
+          "United States"
+        ]
+      },
+      {
+        "name": "double trap (120 targets)",
+        "gender": "Women",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "Korea, South",
+          "United States",
+          "China"
+        ]
+      },
+      {
+        "name": "double trap (150 targets)",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "China",
+          "India",
+          "United Arab Emirates"
+        ]
+      },
+      {
+        "name": "skeet (125 targets)",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "Cuba",
+          "Finland",
+          "Italy"
+        ]
+      },
+      {
+        "name": "skeet (75 targets)",
+        "gender": "Women",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "Hungary",
+          "China",
+          "Azerbaijan"
+        ]
+      },
+      {
+        "name": "trap (125 targets)",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "Russia",
+          "Italy",
+          "Australia"
+        ]
+      },
+      {
+        "name": "trap (75 targets)",
+        "gender": "Women",
+        "medal": [
+          "Silver",
+          "Bronze",
+          "Gold"
+        ],
+        "country": [
+          "Spain",
+          "Korea, South",
+          "Australia"
+        ]
+      }
+    ]
+  },
+  {
+    "host_year": 2014,
+    "host_city": "Athens",
+    "sport": "Softball",
+    "discipline": "Softball",
+    "event": [
+      {
+        "name": "softball",
+        "gender": "Women",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "Australia",
+          "United States",
+          "Japan"
+        ]
+      }
+    ]
+  },
+  {
+    "host_year": 2014,
+    "host_city": "Athens",
+    "sport": "Table Tennis",
+    "discipline": "Table Tennis",
+    "events": [
+      {
+        "name": "doubles",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "China",
+          "Denmark",
+          "Hong Kong*"
+        ]
+      },
+      {
+        "name": "doubles",
+        "gender": "Women",
+        "medal": [
+          "Silver",
+          "Bronze",
+          "Gold"
+        ],
+        "country": [
+          "Korea, South",
+          "China",
+          "China"
+        ]
+      },
+      {
+        "name": "singles",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Bronze",
+          "Gold"
+        ],
+        "country": [
+          "China",
+          "China",
+          "Korea, South"
+        ]
+      },
+      {
+        "name": "singles",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ],
+        "country": [
+          "Korea, South",
+          "China",
+          "Korea, North"
+        ]
+      }
+    ]
+  },
+  {
+    "host_year": 2014,
+    "host_city": "Athens",
+    "sport": "Taekwondo",
+    "discipline": "Taekwondo",
+    "events": [
+      {
+        "name": "- 49 kg",
+        "gender": "Women",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "Cuba",
+          "Taiwan",
+          "Thailand"
+        ]
+      },
+      {
+        "name": "- 58 kg",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "Taiwan",
+          "Egypt",
+          "Mexico"
+        ]
+      },
+      {
+        "name": "+ 67 kg",
+        "gender": "Women",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "China",
+          "France",
+          "Venezuela"
+        ]
+      },
+      {
+        "name": "+ 80 kg",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "Korea, South",
+          "Greece",
+          "France"
+        ]
+      },
+      {
+        "name": "49 - 57 kg",
+        "gender": "Women",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "Korea, South",
+          "United States",
+          "Mexico"
+        ]
+      },
+      {
+        "name": "57 - 67 kg",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "Korea, South",
+          "Greece",
+          "China"
+        ]
+      },
+      {
+        "name": "58 - 68 kg",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "Korea, South",
+          "Taiwan",
+          "Iran"
+        ]
+      },
+      {
+        "name": "68 - 80 kg",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "United States",
+          "Turkey",
+          "Iran"
+        ]
+      }
+    ]
+  },
+  {
+    "host_year": 2014,
+    "host_city": "Athens",
+    "sport": "Tennis",
+    "discipline": "Tennis",
+    "events": [
+      {
+        "name": "doubles",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "Croatia",
+          "Germany",
+          "Chile"
+        ]
+      },
+      {
+        "name": "doubles",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Gold"
+        ],
+        "country": [
+          "Argentina",
+          "China"
+        ]
+      },
+      {
+        "name": "singles",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "Chile",
+          "United States",
+          "Chile"
+        ]
+      },
+      {
+        "name": "singles",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ],
+        "country": [
+          "Australia",
+          "Belgium",
+          "France"
+        ]
+      }
+    ]
+  },
+  {
+    "host_year": 2014,
+    "host_city": "Athens",
+    "sport": "Triathlon",
+    "discipline": "Triathlon",
+    "events": [
+      {
+        "name": "Individual",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "New Zealand",
+          "New Zealand",
+          "Switzerland"
+        ]
+      },
+      {
+        "name": "Individual",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ],
+        "country": [
+          "United States",
+          "Austria",
+          "Australia"
+        ]
+      }
+    ]
+  },
+  {
+    "host_year": 2014,
+    "host_city": "Athens",
+    "sport": "Volleyball",
+    "discipline": "Beach volley.",
+    "events": [
+      {
+        "name": "beach volleyball",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "Spain",
+          "Brazil",
+          "Switzerland"
+        ]
+      },
+      {
+        "name": "beach volleyball",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ],
+        "country": [
+          "United States",
+          "United States",
+          "Brazil"
+        ]
+      }
+    ]
+  },
+  {
+    "host_year": 2014,
+    "host_city": "Athens",
+    "sport": "Volleyball",
+    "discipline": "Volleyball",
+    "events": [
+      {
+        "name": "volleyball",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "Brazil",
+          "Italy",
+          "Russia"
+        ]
+      },
+      {
+        "name": "volleyball",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "Cuba",
+          "Russia",
+          "China"
+        ]
+      }
+    ]
+  },
+  {
+    "host_year": 2014,
+    "host_city": "Athens",
+    "sport": "Weightlifting",
+    "discipline": "Weightlifting",
+    "events": [
+      {
+        "name": "- 56kg, total (bantamweight)",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "Turkey",
+          "China",
+          "Turkey"
+        ]
+      },
+      {
+        "name": "+ 105kg",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "Iran",
+          "Latvia",
+          "Bulgaria"
+        ]
+      },
+      {
+        "name": "+ 75kg",
+        "gender": "Women",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "China",
+          "Poland",
+          "Korea, South"
+        ]
+      },
+      {
+        "name": "105kg",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "Russia",
+          "Ukraine",
+          "Russia"
+        ]
+      },
+      {
+        "name": "48kg",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ],
+        "country": [
+          "Thailand",
+          "Turkey",
+          "China"
+        ]
+      },
+      {
+        "name": "53kg",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "Colombia",
+          "Indonesia",
+          "Thailand"
+        ]
+      },
+      {
+        "name": "58kg",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "Thailand",
+          "Korea, North",
+          "China"
+        ]
+      },
+      {
+        "name": "62kg",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "China",
+          "China",
+          "Venezuela"
+        ]
+      },
+      {
+        "name": "63kg",
+        "gender": "Women",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "Ukraine",
+          "Belarus",
+          "Belarus"
+        ]
+      },
+      {
+        "name": "69kg",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "Croatia",
+          "Korea, South",
+          "China"
+        ]
+      },
+      {
+        "name": "69kg",
+        "gender": "Women",
+        "medal": [
+          "Silver",
+          "Bronze",
+          "Gold"
+        ],
+        "country": [
+          "Hungary",
+          "Russia",
+          "China"
+        ]
+      },
+      {
+        "name": "75kg",
+        "gender": "Women",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "Thailand",
+          "Russia",
+          "Russia"
+        ]
+      },
+      {
+        "name": "77kg",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "Kazakhstan",
+          "Turkey",
+          "Russia"
+        ]
+      },
+      {
+        "name": "85kg",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "Georgia",
+          "Greece",
+          "Belarus"
+        ]
+      },
+      {
+        "name": "94kg",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "Russia",
+          "Russia",
+          "Bulgaria"
+        ]
+      }
+    ]
+  },
+  {
+    "host_year": 2014,
+    "host_city": "Athens",
+    "sport": "Wrestling",
+    "discipline": "Wrestling Free.",
+    "events": [
+      {
+        "name": "- 48kg",
+        "gender": "Women",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "Ukraine",
+          "United States",
+          "Japan"
+        ]
+      },
+      {
+        "name": "- 55kg",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "Russia",
+          "United States",
+          "Japan"
+        ]
+      },
+      {
+        "name": "48 - 55kg",
+        "gender": "Women",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "France",
+          "Canada",
+          "Japan"
+        ]
+      },
+      {
+        "name": "55 - 60kg",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ],
+        "country": [
+          "Japan",
+          "Cuba",
+          "Iran"
+        ]
+      },
+      {
+        "name": "55 - 63kg",
+        "gender": "Women",
+        "medal": [
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "country": [
+          "Japan",
+          "United States",
+          "France"
+        ]
+      },
+      {
+        "name": "60 - 66kg",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "United States",
+          "Ukraine",
+          "Russia"
+        ]
+      },
+      {
+        "name": "63 - 72kg",
+        "gender": "Women",
+        "medal": [
+          "Silver",
+          "Bronze",
+          "Gold"
+        ],
+        "country": [
+          "Russia",
+          "Japan",
+          "China"
+        ]
+      },
+      {
+        "name": "66 - 74kg",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Bronze",
+          "Gold"
+        ],
+        "country": [
+          "Kazakhstan",
+          "Cuba",
+          "Russia"
+        ]
+      },
+      {
+        "name": "74 - 84kg",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "Korea, South",
+          "United States",
+          "Russia"
+        ]
+      },
+      {
+        "name": "84 - 96kg",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "Uzbekistan",
+          "Russia",
+          "Iran"
+        ]
+      },
+      {
+        "name": "96 - 120kg",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "Iran",
+          "Uzbekistan",
+          "Turkey"
+        ]
+      }
+    ]
+  },
+  {
+    "host_year": 2014,
+    "host_city": "Athens",
+    "sport": "Wrestling",
+    "discipline": "Wrestling Gre-R",
+    "events": [
+      {
+        "name": "- 55kg",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Silver",
+          "Gold"
+        ],
+        "country": [
+          "Greece",
+          "Russia",
+          "Hungary"
+        ]
+      },
+      {
+        "name": "55 - 60kg",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Gold",
+          "Bronze"
+        ],
+        "country": [
+          "Cuba",
+          "Korea, South",
+          "Bulgaria"
+        ]
+      },
+      {
+        "name": "60 - 66kg",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "Azerbaijan",
+          "Kazakhstan",
+          "Turkey"
+        ]
+      },
+      {
+        "name": "66 - 74kg",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "Uzbekistan",
+          "Russia",
+          "Finland"
+        ]
+      },
+      {
+        "name": "74 - 84kg",
+        "gender": "Men",
+        "medal": [
+          "Gold",
+          "Bronze",
+          "Silver"
+        ],
+        "country": [
+          "Russia",
+          "Belarus",
+          "Sweden"
+        ]
+      },
+      {
+        "name": "84 - 96kg",
+        "gender": "Men",
+        "medal": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ],
+        "country": [
+          "Turkey",
+          "Egypt",
+          "Georgia"
+        ]
+      },
+      {
+        "name": "96 - 120kg",
+        "gender": "Men",
+        "medal": [
+          "Silver",
+          "Bronze",
+          "Gold"
+        ],
+        "country": [
+          "Kazakhstan",
+          "United States",
+          "Russia"
+        ]
+      }
+    ]
+  }
+]

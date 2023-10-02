@@ -1,0 +1,107 @@
+{
+  "type": ["Dictionary"],
+  "typeFeature": null,
+  "typeValue": "Bob,Lucy",
+  "children":[
+    {
+      "type": ["String", "Number"],
+      "typeValue": "age",
+      "typeFeature": "typeAggr",
+      "children": [null, null],
+      "typeProportion": [1,1],
+      "parentType": "Dictionary"
+    },
+    {
+      "type": ["String"],
+      "typeValue": "univeristy",
+      "typeFeature": "keyOptional",
+      "children": [null],
+      "typeProportion": [1],
+      "parentType": "Dictionary"
+    },
+    {
+      "type": ["String"],
+      "typeValue": "Univeristy",
+      "typeFeature": "keyOptional",
+      "children": [null],
+      "typeProportion": [1],
+      "parentType": "Dictionary"
+    },
+    {
+      "type": ["Dictionary"],
+      "typeFeature": "typeAggr",
+      "typeValue": "course",
+      "children": [
+        {
+          "type": ["Dictionary"],
+          "typeFeature": null,
+          "typeValue": "freshman-1",
+          "children": [
+            {
+              "type": ["Number"],
+              "typeFeature": null,
+              "typeValue": "math",
+              "children": [null],
+              "typeProportion": [2],
+              "parentType": "Dictionary"
+            },
+            {
+              "type": ["Number"],
+              "typeFeature": null,
+              "typeValue": "C",
+              "children": [null],
+              "typeProportion": [2],
+              "parentType": "Dictionary"
+            },
+            {
+              "type": ["Number"],
+              "typeFeature": null,
+              "typeValue": "P.E.",
+              "children": [null],
+              "typeProportion": [2],
+              "parentType": "Dictionary"
+            }
+          ],
+          "parentType": "Dictionary",
+          "typeProportion":[2]
+        }, 
+        {
+          "type": ["Dictionary"],
+          "typeFeature": null,
+          "typeValue": "freshman-2",
+          "children": [
+            {
+              "type": "Number",
+              "typeFeature": null,
+              "typeValue": "C++",
+              "children": [null],
+              "parentType": "Dictionary",
+              "typeProportion":[2]
+            }
+          ],
+          "parentType": "Dictionary",
+          "typeProportion":[2]
+        },
+        {
+          "type": ["Dictionary"],
+          "typeFeature": null,
+          "typeValue": "sophomore-1",
+          "children": [
+            {
+              "type": "Number",
+              "typeFeature": null,
+              "typeValue": "Vis",
+              "children": [null],
+              "parentType": "Dictionary",
+              "typeProportion":[2]
+            }
+          ],
+          "parentType": "Dictionary",
+          "typeProportion":[2]
+        }
+      ],
+      "typeProportion": [2],
+      "parentType": "Dictionary"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "type": "Array",
+  "typeFeature": null,
+  "typeValue": null,
+  "children": [
+    {
+      "type": "Dictionary",
+      "typeFeature": "typeAggr",
+      "typeValue": null,
+      "children": [
+        {
+          "type": "String",
+          "typeFeature": null,
+          "typeValue": "name",
+          "children": [null]
+        },
+        {
+          "typeFeature": "valueMultipleType",
+          "typeValue": "age",
+          "type": ["Number", "String"],
+          "typeProprotion": [80, 20],
+          "children": [null, null]
+        },
+        {
+          "type": "String",
+          "typeFeature": "keyOptional",
+          "typeValue": "university",
+          "children": [null]
+        },
+        {
+          "type": "String",
+          "typeFeature": "keyOptional",
+          "typeValue": "University",
+          "children": [null]
+        },
+        {
+          "type": "Dictionary",
+          "typeFeature": null,
+          "typeValue": "course",
+          "children": [
+            {
+              "type": "Dictionary",
+              "typeFeature": null,
+              "typeValue": "freshman-1",
+              "children": [
+                {
+                  "type": "Number",
+                  "typeFeature": null,
+                  "typeValue": "math",
+                  "children": [null]
+                },
+                {
+                  "type": "Number",
+                  "typeFeature": null,
+                  "typeValue": "C",
+                  "children": [null]
+                },
+                {
+                  "type": "Number",
+                  "typeFeature": null,
+                  "typeValue": "P.E.",
+                  "children": [null]
+                }
+              ]
+            }, 
+            {
+              "type": "Dictionary",
+              "typeFeature": null,
+              "typeValue": "freshman-2",
+              "children": [
+                {
+                  "type": "Number",
+                  "typeFeature": null,
+                  "typeValue": "C++",
+                  "children": [null]
+                }
+              ]
+            },
+            {
+              "type": "Dictionary",
+              "typeFeature": null,
+              "typeValue": "sophomore-1",
+              "children": [
+                {
+                  "type": "Number",
+                  "typeFeature": null,
+                  "typeValue": "Vis",
+                  "children": [null]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

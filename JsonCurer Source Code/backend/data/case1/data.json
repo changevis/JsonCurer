@@ -1,0 +1,7491 @@
+[
+  {
+    "studentId": "20174010657",
+    "birth_year": 1998,
+    "birth_month": "Nov",
+    "birth_day": 26,
+    "club": [
+      "dancing",
+      "poetry"
+    ],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          96,
+          98,
+          96
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 96.36363636363636
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          73,
+          78,
+          84
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 77
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          93,
+          95,
+          86,
+          91,
+          97
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 92.65217391304348
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          85,
+          87,
+          93,
+          86,
+          92
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 88.56666666666666
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          92,
+          95,
+          91,
+          93
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 92.45454545454545
+      },
+      "Experiments and Practice": {
+        "scores": [
+          100,
+          90,
+          null,
+          97,
+          97
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010512",
+    "birth_year": 1999,
+    "birth_month": "Jul",
+    "birth_day": 6,
+    "club": "astronomy",
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          92,
+          93,
+          91
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 91.63636363636364
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          84,
+          80,
+          87
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 83.75
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          82,
+          86,
+          93,
+          91,
+          96
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 89.21739130434783
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          86,
+          80,
+          95,
+          86,
+          93
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 87.93333333333334
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          90,
+          92,
+          91,
+          93
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 91.54545454545455
+      },
+      "Experiments and Practice": {
+        "scores": [
+          91,
+          85,
+          null,
+          92,
+          94
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010752",
+    "birth_year": 1995,
+    "birth_month": "Jun",
+    "birth_day": 22,
+    "club": [
+      "anime",
+      "sketching"
+    ],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          94,
+          88,
+          91
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 91.27272727272727
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          75,
+          73,
+          85
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 77
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          84,
+          88,
+          95,
+          94,
+          95
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 90.73913043478261
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          87,
+          92,
+          90,
+          92,
+          97
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 91.83333333333333
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          75,
+          95,
+          87,
+          93
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 87.9090909090909
+      },
+      "Experiments and Practice": {
+        "scores": [
+          95,
+          90,
+          null,
+          92,
+          95
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010128",
+    "birth_year": 1999,
+    "birth_month": "Jun",
+    "birth_day": 26,
+    "club": [
+      "photography",
+      "aid"
+    ],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          95,
+          85,
+          93
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 92.0909090909091
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          75,
+          73,
+          88
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 77.75
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          91,
+          87,
+          84,
+          85,
+          91
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 88.04347826086956
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          93,
+          87,
+          91,
+          77,
+          89
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 87.33333333333333
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          88,
+          93,
+          88,
+          89
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 89.18181818181819
+      },
+      "Experiments and Practice": {
+        "scores": [
+          99,
+          94,
+          null,
+          86,
+          96
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010543",
+    "birth_year": 1995,
+    "birth_month": "Nov",
+    "birth_day": 6,
+    "club": [
+      "board ganme",
+      "guitar",
+      "literature"
+    ],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          97,
+          91,
+          92
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 93.18181818181819
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          82,
+          85,
+          81
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 82.5
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          80,
+          87,
+          83,
+          86,
+          83
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 83.43478260869566
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          90,
+          92,
+          86,
+          82,
+          87
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 87.43333333333334
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          89,
+          95,
+          93,
+          89
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 91.54545454545455
+      },
+      "Experiments and Practice": {
+        "scores": [
+          90,
+          86,
+          null,
+          97,
+          95
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174011354",
+    "birth_year": 1997,
+    "birth_month": "Mar",
+    "birth_day": 15,
+    "club": [
+      "board ganme",
+      "software"
+    ],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          92,
+          95,
+          88
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 90.36363636363636
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          87,
+          90,
+          88
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 88
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          87,
+          90,
+          82,
+          73,
+          86
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 84
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          90,
+          93,
+          94,
+          79,
+          86
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 88.13333333333334
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          71,
+          78,
+          82,
+          88
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 80.9090909090909
+      },
+      "Experiments and Practice": {
+        "scores": [
+          88,
+          84,
+          null,
+          92,
+          89
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010734",
+    "birth_year": 1997,
+    "birth_month": "Feb",
+    "birth_day": 14,
+    "club": [
+      "aid",
+      "guitar",
+      "board ganme"
+    ],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          93,
+          89,
+          83
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 86.81818181818181
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          75,
+          83,
+          76
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 77.25
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          83,
+          89,
+          87,
+          96,
+          85
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 87.43478260869566
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          82,
+          83,
+          89,
+          87,
+          92
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 86.7
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          72,
+          87,
+          93,
+          87
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 86.45454545454545
+      },
+      "Experiments and Practice": {
+        "scores": [
+          97,
+          90,
+          null,
+          95,
+          96
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010549",
+    "birth_year": 1999,
+    "birth_month": "Oct",
+    "birth_day": 7,
+    "club": [
+      "photography",
+      "tennis"
+    ],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          94,
+          85,
+          85
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 87.45454545454545
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          74,
+          74,
+          80
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 75.5
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          92,
+          91,
+          84,
+          83,
+          92
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 88.8695652173913
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          76,
+          81,
+          94,
+          84,
+          84
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 83.46666666666667
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          74,
+          93,
+          94,
+          88
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 88.54545454545455
+      },
+      "Experiments and Practice": {
+        "scores": [
+          88,
+          87,
+          null,
+          90,
+          91
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010640",
+    "birth_year": 1996,
+    "birth_month": "Aug",
+    "birth_day": 17,
+    "club": [
+      "anime",
+      "tennis"
+    ],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          96,
+          94,
+          94
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 94.54545454545455
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          72,
+          66,
+          83
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 73.25
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          84,
+          92,
+          74,
+          81,
+          86
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 83.56521739130434
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          86,
+          74,
+          87,
+          74,
+          81
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 80.2
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          73,
+          97,
+          90,
+          91
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 88.45454545454545
+      },
+      "Experiments and Practice": {
+        "scores": [
+          88,
+          84,
+          null,
+          92,
+          95
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010717",
+    "birth_year": 1999,
+    "birth_month": "Feb",
+    "birth_day": 3,
+    "club": "tennis",
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          92,
+          93,
+          82
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 86.72727272727273
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          78,
+          80,
+          79
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 78.75
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          91,
+          91,
+          86,
+          87,
+          89
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 89
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          84,
+          64,
+          85,
+          83,
+          85
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 80.2
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          84,
+          92,
+          89,
+          83
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 87
+      },
+      "Experiments and Practice": {
+        "scores": [
+          95,
+          91,
+          null,
+          86,
+          94
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010239",
+    "birth_year": 1995,
+    "birth_month": "Nov",
+    "birth_day": 10,
+    "club": [
+      "sketching",
+      "multiculture",
+      "fine art"
+    ],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          84,
+          79,
+          82
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 82
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          79,
+          79,
+          81
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 79.5
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          85,
+          90,
+          87,
+          89,
+          86
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 87.1304347826087
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          90,
+          70,
+          93,
+          82,
+          88
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 84.43333333333334
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          79,
+          93,
+          90,
+          86
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 87.45454545454545
+      },
+      "Experiments and Practice": {
+        "scores": [
+          99,
+          88,
+          null,
+          97,
+          95
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010520",
+    "birth_year": 1999,
+    "birth_month": "Mar",
+    "birth_day": 2,
+    "club": [
+      "muisc",
+      "multiculture",
+      "photography",
+      "movie"
+    ],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          93,
+          89,
+          88
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 89.54545454545455
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          80,
+          80,
+          86
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 81.5
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          84,
+          90,
+          83,
+          79,
+          84
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 84
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          88,
+          77,
+          90,
+          82,
+          79
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 82.83333333333333
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          86,
+          85,
+          81,
+          87
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 84.27272727272727
+      },
+      "Experiments and Practice": {
+        "scores": [
+          100,
+          77,
+          null,
+          95,
+          99
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010728",
+    "birth_year": 1999,
+    "birth_month": "May",
+    "birth_day": 17,
+    "club": "photography",
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          89,
+          83,
+          79
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 82.45454545454545
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          79,
+          81,
+          86
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 81.25
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          86,
+          89,
+          90,
+          84,
+          82
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 86
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          79,
+          89,
+          77,
+          79,
+          84
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 81.83333333333333
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          72,
+          93,
+          87,
+          88
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 85.63636363636364
+      },
+      "Experiments and Practice": {
+        "scores": [
+          91,
+          84,
+          null,
+          95,
+          92
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010151",
+    "birth_year": 1998,
+    "birth_month": "Nov",
+    "birth_day": 25,
+    "club": [
+    ],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          89,
+          91,
+          87
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 88.27272727272727
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          82,
+          83,
+          87
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 83.5
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          75,
+          82,
+          87,
+          73,
+          83
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 79.69565217391305
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          86,
+          77,
+          96,
+          70,
+          89
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 83.36666666666666
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          91,
+          92,
+          89,
+          78
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 86.9090909090909
+      },
+      "Experiments and Practice": {
+        "scores": [
+          90,
+          92,
+          null,
+          77,
+          92
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010639",
+    "birth_year": 1996,
+    "birth_month": "Sep",
+    "birth_day": 11,
+    "club": [
+      "anime",
+      "photography",
+      "aid"
+    ],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          81,
+          85,
+          80
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 81.18181818181819
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          72,
+          73,
+          77
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 73.5
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          87,
+          84,
+          86,
+          82,
+          82
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 84.34782608695652
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          82,
+          89,
+          85,
+          76,
+          77
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 81.53333333333333
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          84,
+          96,
+          81,
+          86
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 85.63636363636364
+      },
+      "Experiments and Practice": {
+        "scores": [
+          100,
+          97,
+          null,
+          73,
+          98
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010518",
+    "birth_year": 1998,
+    "birth_month": "Jan",
+    "birth_day": 22,
+    "club": [
+      "guitar",
+      "tennis",
+      "movie"
+    ],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          93,
+          92,
+          88
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 90.0909090909091
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          81,
+          73,
+          82
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 79.25
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          75,
+          82,
+          77,
+          89,
+          82
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 80.52173913043478
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          92,
+          81,
+          72,
+          84,
+          86
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 83.46666666666667
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          70,
+          91,
+          77,
+          88
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 81.27272727272727
+      },
+      "Experiments and Practice": {
+        "scores": [
+          93,
+          80,
+          null,
+          88,
+          93
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010350",
+    "birth_year": 1994,
+    "birth_month": "Aug",
+    "birth_day": 12,
+    "club": [
+      "sketching",
+      "mountaineering",
+      "astronomy"
+    ],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          83,
+          84,
+          80
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 81.54545454545455
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          80,
+          82,
+          85
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 81.75
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          89,
+          91,
+          85,
+          83,
+          86
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 86.95652173913044
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          84,
+          74,
+          84,
+          78,
+          65
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 76.36666666666666
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          75,
+          89,
+          76,
+          81
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 79.54545454545455
+      },
+      "Experiments and Practice": {
+        "scores": [
+          99,
+          74,
+          null,
+          95,
+          96
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010803",
+    "birth_year": 1994,
+    "birth_month": "Mar",
+    "birth_day": 29,
+    "club": [
+      "anime",
+      "fine art",
+      "board ganme",
+      "drama",
+      "poetry"
+    ],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          87,
+          75,
+          88
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 85.36363636363636
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          82,
+          82,
+          93
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 84.75
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          73,
+          91,
+          84,
+          60,
+          77
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 76.65217391304348
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          91,
+          77,
+          81,
+          70,
+          87
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 81.4
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          80,
+          88,
+          80,
+          89
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 83.9090909090909
+      },
+      "Experiments and Practice": {
+        "scores": [
+          100,
+          89,
+          null,
+          92,
+          99
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010919",
+    "birth_year": 1999,
+    "birth_month": "May",
+    "birth_day": 17,
+    "club": [
+      "mountaineering",
+      "multiculture",
+      "tennis",
+      "movie"
+    ],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          76,
+          78,
+          81
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 79.0909090909091
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          75,
+          82,
+          88
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 80
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          80,
+          87,
+          90,
+          76,
+          74
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 80.95652173913044
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          90,
+          88,
+          90,
+          70,
+          78
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 82.8
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          85,
+          70,
+          85,
+          87
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 82.81818181818181
+      },
+      "Experiments and Practice": {
+        "scores": [
+          89,
+          90,
+          null,
+          86,
+          91
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010247",
+    "birth_year": 1997,
+    "birth_month": "May",
+    "birth_day": 3,
+    "club": [
+      "software",
+      "literature",
+      "drama",
+      "movie",
+      "tennis"
+    ],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          97,
+          91,
+          91
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 92.63636363636364
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          75,
+          76,
+          87
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 78.25
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          71,
+          82,
+          83,
+          70,
+          78
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 76.34782608695652
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          75,
+          80,
+          89,
+          65,
+          76
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 76.56666666666666
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          92,
+          91,
+          82,
+          84
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 86
+      },
+      "Experiments and Practice": {
+        "scores": [
+          100,
+          84,
+          null,
+          88,
+          95
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010208",
+    "birth_year": 1994,
+    "birth_month": "May",
+    "birth_day": 19,
+    "club": [
+      "muisc",
+      "aid",
+      "mountaineering",
+      "literature"
+    ],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          87,
+          87,
+          89
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 88.0909090909091
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          79,
+          75,
+          79
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 78
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          83,
+          87,
+          76,
+          77,
+          80
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 80.78260869565217
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          79,
+          86,
+          70,
+          66,
+          78
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 76.06666666666666
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          78,
+          85,
+          82,
+          85
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 82.63636363636364
+      },
+      "Experiments and Practice": {
+        "scores": [
+          89,
+          85,
+          null,
+          69,
+          93
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010753",
+    "birth_year": 1997,
+    "birth_month": "Sep",
+    "birth_day": 19,
+    "club": [
+      "software",
+      "dancing",
+      "street dancing"
+    ],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          85,
+          82,
+          77
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 80.0909090909091
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          75,
+          75,
+          81
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 76.5
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          84,
+          88,
+          78,
+          76,
+          87
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 82.91304347826087
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          84,
+          81,
+          82,
+          70,
+          74
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 77.93333333333334
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          82,
+          81,
+          87,
+          73
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 81.18181818181819
+      },
+      "Experiments and Practice": {
+        "scores": [
+          87,
+          91,
+          null,
+          95,
+          93
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010228",
+    "birth_year": 1999,
+    "birth_month": "Fe",
+    "birth_day": 18,
+    "club": [
+      "tennis",
+      "board ganme",
+      "dancing"
+    ],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          93,
+          87,
+          72
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 80.45454545454545
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          78,
+          73,
+          71
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 75
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          85,
+          90,
+          82,
+          83,
+          86
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 85.21739130434783
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          91,
+          87,
+          81,
+          67,
+          70
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 78.83333333333333
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          81,
+          77,
+          82,
+          81
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 80.63636363636364
+      },
+      "Experiments and Practice": {
+        "scores": [
+          75,
+          79,
+          null,
+          78,
+          85
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010438",
+    "birth_year": 1998,
+    "birth_month": "Jan",
+    "birth_day": 4,
+    "club": "anime",
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          86,
+          94,
+          94
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 91.81818181818181
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          74,
+          75,
+          75
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 74.5
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          62,
+          79,
+          89,
+          81,
+          83
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 77.52173913043478
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          84,
+          83,
+          71,
+          78,
+          79
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 79.26666666666667
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          76,
+          91,
+          82,
+          66
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 78.18181818181819
+      },
+      "Experiments and Practice": {
+        "scores": [
+          87,
+          80,
+          null,
+          80,
+          92
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010342",
+    "birth_year": 1992,
+    "birth_month": "Dec",
+    "birth_day": 27,
+    "club": [
+      "street dancing",
+      "guitar",
+      "tennis",
+      "anime",
+      "sketching",
+      "astronomy",
+      "board ganme"
+    ],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          90,
+          85,
+          81
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 84.18181818181819
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          70,
+          66,
+          76
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 70.5
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          89,
+          86,
+          84,
+          75,
+          71
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 81.26086956521739
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          86,
+          85,
+          60,
+          73,
+          66
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 74.2
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          80,
+          86,
+          81,
+          76
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 80.36363636363636
+      },
+      "Experiments and Practice": {
+        "scores": [
+          96,
+          83,
+          null,
+          92,
+          97
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010642",
+    "birth_year": 1996,
+    "birth_month": "Apr",
+    "birth_day": 26,
+    "club": [
+      "sketching",
+      "movie",
+      "astronomy",
+      "software",
+      "aid"
+    ],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          87,
+          86,
+          81
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 83.54545454545455
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          57,
+          63,
+          72
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 62.25
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          78,
+          90,
+          86,
+          82,
+          83
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 83.26086956521739
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          83,
+          84,
+          84,
+          77,
+          72
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 79.6
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          87,
+          80,
+          85,
+          81
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 83.36363636363636
+      },
+      "Experiments and Practice": {
+        "scores": [
+          72,
+          87,
+          null,
+          72,
+          75
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010354",
+    "birth_year": 1996,
+    "birth_month": "Dec",
+    "birth_day": 13,
+    "club": [
+      "mountaineering",
+      "fine art",
+      "photography",
+      "poetry"
+    ],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          93,
+          89,
+          78
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 84.0909090909091
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          66,
+          72,
+          73
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 69.25
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          76,
+          86,
+          82,
+          81,
+          82
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 80.95652173913044
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          81,
+          69,
+          68,
+          72,
+          80
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 74.4
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          77,
+          75,
+          81,
+          83
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 79.72727272727273
+      },
+      "Experiments and Practice": {
+        "scores": [
+          89,
+          85,
+          null,
+          97,
+          91
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010519",
+    "birth_year": 1996,
+    "birth_month": "Oct",
+    "birth_day": 21,
+    "club": [
+      "movie",
+      "aid",
+      "fine art",
+      "board ganme",
+      "literature",
+      "mountaineering"
+    ],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          85,
+          91,
+          82
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 84.45454545454545
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          81,
+          79,
+          81
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 80.5
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          57,
+          88,
+          69,
+          86,
+          72
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 72.78260869565217
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          84,
+          84,
+          90,
+          73,
+          81
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 82.1
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          86,
+          93,
+          87,
+          92
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 89.27272727272727
+      },
+      "Experiments and Practice": {
+        "scores": [
+          98,
+          90,
+          null,
+          92,
+          95
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010134",
+    "birth_year": 1998,
+    "birth_month": "Jan",
+    "birth_day": 6,
+    "club": [
+      "drama",
+      "dancing",
+      "tennis"
+    ],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          89,
+          91,
+          80
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 84.45454545454545
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          82,
+          85,
+          82
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 82.75
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          57,
+          90,
+          72,
+          68,
+          74
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 70.95652173913044
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          88,
+          77,
+          84,
+          69,
+          82
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 79.93333333333334
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          88,
+          79,
+          80,
+          89
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 83.72727272727273
+      },
+      "Experiments and Practice": {
+        "scores": [
+          82,
+          83,
+          null,
+          70,
+          89
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010715",
+    "birth_year": 1994,
+    "birth_month": "Feb",
+    "birth_day": 3,
+    "club": [
+      "photography",
+      "software",
+      "mountaineering",
+      "street dancing"
+    ],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          84,
+          86,
+          73
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 78.36363636363636
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          72,
+          60,
+          72
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 69
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          71,
+          87,
+          87,
+          78,
+          82
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 80.17391304347827
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          72,
+          85,
+          69,
+          70,
+          77
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 74.86666666666666
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          66,
+          88,
+          75,
+          75
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 75.72727272727273
+      },
+      "Experiments and Practice": {
+        "scores": [
+          89,
+          88,
+          null,
+          87,
+          89
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010444",
+    "birth_year": 1994,
+    "birth_month": "Mar",
+    "birth_day": 22,
+    "club": [
+      "software",
+      "muisc",
+      "tennis"
+    ],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          84,
+          93,
+          83
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 85.0909090909091
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          78,
+          81,
+          89
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 81.5
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          64,
+          70,
+          66,
+          55,
+          81
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 67.52173913043478
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          77,
+          95,
+          77,
+          63,
+          70
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 76.16666666666667
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          84,
+          93,
+          80,
+          86
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 84.72727272727273
+      },
+      "Experiments and Practice": {
+        "scores": [
+          96,
+          88,
+          null,
+          90,
+          88
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010939",
+    "birth_year": 1997,
+    "birth_month": "Aug",
+    "birth_day": 22,
+    "club": [
+      "software",
+      "muisc",
+      "multiculture",
+      "dancing"
+    ],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          91,
+          85,
+          80
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 83.9090909090909
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          63,
+          71,
+          66
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 65.75
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          87,
+          85,
+          71,
+          72,
+          71
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 77.78260869565217
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          79,
+          88,
+          71,
+          69,
+          62
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 73.5
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          78,
+          91,
+          73,
+          74
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 77.45454545454545
+      },
+      "Experiments and Practice": {
+        "scores": [
+          85,
+          78,
+          null,
+          95,
+          85
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010245",
+    "birth_year": 1996,
+    "birth_month": "Oct",
+    "birth_day": 14,
+    "club": [
+      "fine art",
+      "movie",
+      "dancing",
+      "mountaineering"
+    ],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          94,
+          86,
+          71
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 80
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          76,
+          66,
+          82
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 75
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          80,
+          85,
+          74,
+          68,
+          66
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 74.69565217391305
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          84,
+          84,
+          72,
+          69,
+          70
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 75.73333333333333
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          73,
+          72,
+          80,
+          76
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 76.18181818181819
+      },
+      "Experiments and Practice": {
+        "scores": [
+          88,
+          80,
+          null,
+          95,
+          95
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010847",
+    "birth_year": 1997,
+    "birth_month": "Dec",
+    "birth_day": 17,
+    "club": [
+      "mountaineering",
+      "anime",
+      "multiculture",
+      "literature"
+    ],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          95,
+          90,
+          82
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 87
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          78,
+          78,
+          80
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 78.5
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          66,
+          70,
+          63,
+          57,
+          78
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 67.21739130434783
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          64,
+          72,
+          84,
+          79,
+          76
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 74.73333333333333
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          86,
+          75,
+          73,
+          75
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 76.27272727272727
+      },
+      "Experiments and Practice": {
+        "scores": [
+          92,
+          75,
+          null,
+          88,
+          90
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010726",
+    "birth_year": 1998,
+    "birth_month": "Sep",
+    "birth_day": 23,
+    "club": [
+      "fine art",
+      "drama",
+      "mountaineering",
+      "poetry"
+    ],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          81,
+          91,
+          66
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 74.63636363636364
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          75,
+          72,
+          78
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 75
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          76,
+          85,
+          77,
+          60,
+          80
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 75.82608695652173
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          89,
+          72,
+          71,
+          64,
+          64
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 71.76666666666667
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          88,
+          95,
+          76,
+          76
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 81.63636363636364
+      },
+      "Experiments and Practice": {
+        "scores": [
+          100,
+          95,
+          null,
+          67,
+          92
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010322",
+    "birth_year": 1996,
+    "birth_month": "Feb",
+    "birth_day": 6,
+    "club": [
+      "photography",
+      "guitar",
+      "board ganme",
+      "dancing",
+      "muisc",
+      "mountaineering"
+    ],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          84,
+          77,
+          69
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 74.54545454545455
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          81,
+          77,
+          87
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 81.5
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          85,
+          93,
+          77,
+          69,
+          71
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 79.17391304347827
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          63,
+          72,
+          75,
+          68,
+          60
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 67.1
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          79,
+          77,
+          78,
+          75
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 77.18181818181819
+      },
+      "Experiments and Practice": {
+        "scores": [
+          78,
+          88,
+          null,
+          88,
+          62
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010341",
+    "birth_year": 1999,
+    "birth_month": "Nov",
+    "birth_day": 5,
+    "club": [
+      "astronomy",
+      "board ganme",
+      "dancing"
+    ],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          77,
+          89,
+          73
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 77
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          81,
+          84,
+          80
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 81.5
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          65,
+          87,
+          66,
+          49,
+          61
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 65.34782608695652
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          79,
+          68,
+          82,
+          74,
+          72
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 74.66666666666667
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          83,
+          89,
+          68,
+          83
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 78.63636363636364
+      },
+      "Experiments and Practice": {
+        "scores": [
+          91,
+          93,
+          null,
+          72,
+          90
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010716",
+    "birth_year": 1994,
+    "birth_month": "Aug",
+    "birth_day": 28,
+    "club": [
+      "board ganme",
+      "multiculture",
+      "movie",
+      "aid"
+    ],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          80,
+          78,
+          71
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 74.72727272727273
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          64,
+          67,
+          64
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 64.75
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          78,
+          79,
+          73,
+          61,
+          64
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 71.30434782608695
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          71,
+          83,
+          66,
+          73,
+          67
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 72.03333333333333
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          71,
+          90,
+          73,
+          76
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 76.54545454545455
+      },
+      "Experiments and Practice": {
+        "scores": [
+          89,
+          82,
+          null,
+          95,
+          92
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010627",
+    "birth_year": 1994,
+    "birth_month": "Sep",
+    "birth_day": 14,
+    "club": "anime",
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          75,
+          91,
+          72
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 76.27272727272727
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          74,
+          66,
+          81
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 73.75
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          70,
+          72,
+          62,
+          64,
+          67
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 67.26086956521739
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          67,
+          62,
+          83,
+          67,
+          69
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 69.13333333333334
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          80,
+          86,
+          72,
+          81
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 78.45454545454545
+      },
+      "Experiments and Practice": {
+        "scores": [
+          71,
+          83,
+          null,
+          67,
+          89
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010631",
+    "birth_year": 1999,
+    "birth_month": "Aug",
+    "birth_day": 16,
+    "club": [
+      "street dancing",
+      "board ganme",
+      "aid",
+      "mountaineering",
+      "dancing"
+    ],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          76,
+          84,
+          85
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 82.36363636363636
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          78,
+          88,
+          80
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 81
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          60,
+          74,
+          64,
+          35,
+          71
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 61.17391304347826
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          64,
+          74,
+          67,
+          64,
+          38
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 60.43333333333333
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          66,
+          86,
+          66,
+          80
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 73.45454545454545
+      },
+      "Experiments and Practice": {
+        "scores": [
+          98,
+          90,
+          null,
+          75,
+          98
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010326",
+    "birth_year": 1998,
+    "birth_month": "Nov",
+    "birth_day": 14,
+    "club": [
+      "movie",
+      "multiculture",
+      "anime",
+      "aid",
+      "muisc",
+      "board ganme",
+      "poetry",
+      "guitar"
+    ],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          77,
+          74,
+          75
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 75.36363636363636
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          80,
+          67,
+          80
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 76.75
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          67,
+          78,
+          64,
+          62,
+          64
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 66.8695652173913
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          74,
+          83,
+          67,
+          66,
+          49
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 67.2
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          69,
+          83,
+          50,
+          67
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 64.0909090909091
+      },
+      "Experiments and Practice": {
+        "scores": [
+          85,
+          80,
+          null,
+          90,
+          91
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010427",
+    "birth_year": 1998,
+    "birth_month": "Mar",
+    "birth_day": 4,
+    "club": [
+      "drama",
+      "mountaineering",
+      "astronomy",
+      "poetry"
+    ],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          88,
+          76,
+          77
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 79.81818181818181
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          78,
+          69,
+          64
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 72.25
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          81,
+          86,
+          77,
+          51,
+          66
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 72.69565217391305
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          68,
+          72,
+          60,
+          52,
+          46
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 59.13333333333333
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          90,
+          72,
+          62,
+          37
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 62.09090909090909
+      },
+      "Experiments and Practice": {
+        "scores": [
+          89,
+          79,
+          null,
+          0,
+          88
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "2017401016",
+    "birth_year": 1991,
+    "birth_month": "Fe",
+    "birth_day": 13,
+    "club": [],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          81,
+          80,
+          80
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 80.27272727272727
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          77,
+          68,
+          79
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 75.25
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          41,
+          63,
+          66,
+          60,
+          61
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 56.82608695652174
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          74,
+          75,
+          77,
+          70,
+          62
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 71.1
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          66,
+          70,
+          63,
+          70
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 66.72727272727273
+      },
+      "Experiments and Practice": {
+        "scores": [
+          94,
+          78,
+          null,
+          95,
+          89
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "2017401011",
+    "birth_year": 1992,
+    "birth_month": "Feb",
+    "birth_day": 27,
+    "club": [],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          88,
+          87,
+          76
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 81.27272727272727
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          84,
+          79,
+          87
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 83.5
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          37,
+          60,
+          58,
+          43,
+          52
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 48.95652173913044
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          71,
+          63,
+          70,
+          68,
+          68
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 67.93333333333334
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          67,
+          74,
+          60,
+          79
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 69
+      },
+      "Experiments and Practice": {
+        "scores": [
+          86,
+          78,
+          null,
+          90,
+          90
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010332",
+    "birth_year": 1998,
+    "birth_month": "Apr",
+    "birth_day": 9,
+    "club": [
+      "poetry",
+      "fine art",
+      "board ganme",
+      "mountaineering",
+      "sketching",
+      "drama"
+    ],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          86,
+          86,
+          66
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 75.0909090909091
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          72,
+          72,
+          61
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 69.25
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          66,
+          75,
+          66,
+          63,
+          52
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 64
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          51,
+          49,
+          70,
+          64,
+          36
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 52.86666666666667
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          87,
+          90,
+          55,
+          76
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 72.9090909090909
+      },
+      "Experiments and Practice": {
+        "scores": [
+          77,
+          91,
+          null,
+          66,
+          82
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "2017401008",
+    "birth_year": 1991,
+    "birth_month": "Jul",
+    "birth_day": 15,
+    "club": [],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          85,
+          86,
+          70
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 77
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          68,
+          72,
+          60
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 67
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          57,
+          61,
+          69,
+          60,
+          62
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 61.391304347826086
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          64,
+          62,
+          60,
+          70,
+          64
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 64.13333333333334
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          73,
+          86,
+          60,
+          40
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 61.63636363636363
+      },
+      "Experiments and Practice": {
+        "scores": [
+          81,
+          81,
+          null,
+          81,
+          86
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010429",
+    "birth_year": 1993,
+    "birth_month": "Aug",
+    "birth_day": 4,
+    "club": "guitar",
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          79,
+          81,
+          60
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 69
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          73,
+          63,
+          68
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 69.25
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          65,
+          76,
+          64,
+          42,
+          50
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 59.47826086956522
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          61,
+          74,
+          60,
+          62,
+          28
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 55.93333333333333
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          46,
+          61,
+          61,
+          60
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 58
+      },
+      "Experiments and Practice": {
+        "scores": [
+          90,
+          85,
+          null,
+          95,
+          86
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "2017401030",
+    "birth_year": 1993,
+    "birth_month": "Jun",
+    "birth_day": 14,
+    "club": [],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          86,
+          72,
+          67
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 73.0909090909091
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          68,
+          64,
+          73
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 68.25
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          49,
+          53,
+          70,
+          37,
+          68
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 55.391304347826086
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          54,
+          63,
+          45,
+          64,
+          45
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 54.2
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          66,
+          75,
+          52,
+          69
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 63.36363636363637
+      },
+      "Experiments and Practice": {
+        "scores": [
+          93,
+          96,
+          null,
+          92,
+          89
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010149",
+    "birth_year": 1996,
+    "birth_month": "Dec",
+    "birth_day": 26,
+    "club": [
+      "fine art",
+      "sketching",
+      "muisc"
+    ],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          77,
+          75,
+          70
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 72.81818181818181
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          71,
+          68,
+          76
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 71.5
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          46,
+          67,
+          76,
+          40,
+          45
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 53.608695652173914
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          60,
+          38,
+          46,
+          49,
+          26
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 43.13333333333333
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          63,
+          44,
+          64,
+          31
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 51.18181818181818
+      },
+      "Experiments and Practice": {
+        "scores": [
+          83,
+          82,
+          null,
+          85,
+          79
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010710",
+    "birth_year": 1999,
+    "birth_month": "Jan",
+    "birth_day": 14,
+    "club": [
+      "street dancing",
+      "aid",
+      "guitar",
+      "drama",
+      "tennis",
+      "sketching"
+    ],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          85,
+          88,
+          86
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 86.0909090909091
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          0,
+          61,
+          0
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 15.25
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          76,
+          57,
+          45,
+          34,
+          52
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 54.78260869565217
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          63,
+          70,
+          72,
+          50,
+          61
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 62.833333333333336
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          68,
+          15,
+          12,
+          29
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 27.363636363636363
+      },
+      "Experiments and Practice": {
+        "scores": [
+          85,
+          0,
+          null,
+          0,
+          67
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010329",
+    "birth_year": 1998,
+    "birth_month": "Jan",
+    "birth_day": 24,
+    "club": [
+      "muisc",
+      "software",
+      "fine art",
+      "multiculture",
+      "poetry",
+      "drama",
+      "street dancing",
+      "astronomy",
+      "photography"
+    ],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          69,
+          53,
+          65
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 63.90909090909091
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          66,
+          0,
+          66
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 49.5
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          43,
+          70,
+          38,
+          41,
+          26
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 42.78260869565217
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          3,
+          40,
+          30,
+          28,
+          3
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 19.9
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          67,
+          6,
+          13,
+          32
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 26.727272727272727
+      },
+      "Experiments and Practice": {
+        "scores": [
+          70,
+          0,
+          null,
+          0,
+          78
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  },
+  {
+    "studentId": "20174010120",
+    "birth_year": 1997,
+    "birth_month": "Jan",
+    "birth_day": 22,
+    "club": [
+      "tennis",
+      "board ganme",
+      "drama",
+      "sketching",
+      "fine art",
+      "astronomy",
+      "movie"
+    ],
+    "courses": {
+      "public compulsory course(Moral Cultivation)": {
+        "scores": [
+          86,
+          77,
+          90
+        ],
+        "courseNames": [
+          "Ideological & Moral Cultivation and Fundamentals of Law",
+          "Essentials of Modern and Contemporary History of China",
+          "Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+        ],
+        "credits": [
+          3,
+          2,
+          6
+        ],
+        "secScore": 86.54545454545455
+      },
+      "public compulsory course(Foreign Language)": {
+        "scores": [
+          74,
+          75,
+          79
+        ],
+        "courseNames": [
+          "General English",
+          "Multipurpose Foreign Language A",
+          "Multipurpose Foreign Language B"
+        ],
+        "credits": [
+          4,
+          2,
+          2
+        ],
+        "secScore": 75.5
+      },
+      "Basic course(Mathematics and Science)": {
+        "scores": [
+          88,
+          90,
+          85,
+          85,
+          82
+        ],
+        "courseNames": [
+          "Calculus I",
+          "Linear Algebra I",
+          "Physics I",
+          "Physics II",
+          "Calculus II"
+        ],
+        "credits": [
+          6,
+          4,
+          4,
+          4,
+          5
+        ],
+        "secScore": 86
+      },
+      "Basic course(Major related)": {
+        "scores": [
+          0,
+          92,
+          0,
+          0,
+          0
+        ],
+        "courseNames": [
+          "Discrete Mathematics",
+          "Mathematical Fundamentals for Information Security",
+          "Cryptography",
+          "Computer Networking",
+          "Computer Organization and Architecture"
+        ],
+        "credits": [
+          3,
+          3,
+          2.5,
+          3,
+          3.5
+        ],
+        "secScore": 18.4
+      },
+      "Advanced course(Major related)": {
+        "scores": [
+          0,
+          91,
+          85,
+          85
+        ],
+        "courseNames": [
+          "Introduction to Information Security",
+          "Programming Basics",
+          "Algorithms and Data Structure",
+          "Database Concepts"
+        ],
+        "credits": [
+          2,
+          2,
+          4,
+          3
+        ],
+        "secScore": 70.63636363636364
+      },
+      "Experiments and Practice": {
+        "scores": [
+          85,
+          0,
+          null,
+          0,
+          90
+        ],
+        "courseNames": [
+          "Practice A",
+          "System Dimplementation",
+          "Information Security Experiment",
+          "Computer Architecture Experiment",
+          "Practice II"
+        ],
+        "credits": [
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "overall_points": {
+      "w_avg": null
+    }
+  }
+]

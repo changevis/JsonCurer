@@ -1,0 +1,52 @@
+{
+  "key1": 12,
+  "key2": null,
+"Bob": {
+  "age": [12, 32, ["2", 9]],
+  "university": "ZJU",
+  "course": {
+    "freshman-1": {
+      "math": 88,
+      "C": 92,
+      "P.E.": 81
+    },
+    "freshman-2": {
+      "C++": 92
+    },
+    "sophomore-1": {
+      "vis": 86
+    }
+  },
+  "course2": {
+    "freshman-1": {
+      "math": 88,
+      "C": 92,
+      "P.E.": 81
+    },
+    "freshman-2": {
+      "C++": 92
+    },
+    "sophomore-1": {
+      "vis": 86
+    }
+  }
+},
+  "key3": "haha",
+"Lucy": {
+  "age": [["2", 9], null],
+  "university": "PKU",
+  "course": {
+    "freshman-1": {
+      "math": 79,
+      "C": 90,
+      "P.E.": 778
+    },
+    "freshman-2": {
+      "C++": 83
+    },
+    "sophomore-1": {
+      "vis": 82
+    }
+  }
+}
+}

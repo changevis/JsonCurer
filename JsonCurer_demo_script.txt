@@ -1,0 +1,31 @@
+In this paper, we present JsonCurer, an interactive visualization system that helps discover and repair quality issues in JSON data.
+
+The workflow of JsonCurer consists of four major procedures. Given a piece of raw JSON data, JsonCurer first extracts and generates an aggregated schema bound with data through a similarity-based aggregation technique. Based on the aggregated schema, it then utilizes a rule-based detection engine to automatically detect potential quality issues. Next, the system interface depicts the schema and detected issues through a hierarchical tree. After assessing the quality of JSON data, users can select some issues to address. A template-based transformation recommender will recommend appropriate transformations with parameters for users to configure. After that, JsonCurer performs the user-specified transformation and outputs intermediate JSON data. The whole process of improving quality is iterative and continues until satisfactory high-quality data is obtained.
+
+The system interface contains four views. The data view enables users to upload or copy-paste raw JSON data. The schema view presents an aggregated schema tree rendered with summary visualizations for data profiling and Bubble Sets for issue presentation. The data quality management view includes four panels to help users inspect and repair issues. The issue overview panel visualizes the frequency distributions of issues across different quality dimensions and data objects. The potential issue list panel exhibits all detected issues. The details panel displays detailed information on a selected issue, such as the proportion of problematic data. In the data cleansing panel, users can choose a recommended transformation and configure its parameters to fix quality issues. The cleansing history view logs all performed transformations.
+
+Now, we will utilize a use case to demonstrate how JsonCurer helps data analysts improve the data quality for reliable analysis. Assume Bob aimed to explore whether the age of students and the number of clubs they participate in would affect their course scores. 
+
+He first uploaded the JSON file into JsonCurer. After observing the schema tree, he identified the target nodes related to the analysis task, including 'club' for the number of clubs, 'birth_year', 'birth_month', and 'birth_day' for the age, and 'scores' and 'secScore' for the course scores. He noticed that all these nodes were enclosed in bubbles, representing these nodes involving quality issues.
+
+In the 'club' node, two issues, namely 'empty value' and 'inconsistent data type' were detected. Bob zoomed in on the schema tree and found that the values of 'club' had two different arrays and one string type. He reviewed the summary visualizations above the 'club' node and clicked them to locate the corresponding data in the data view, finding that in the two arrays, one contained string elements while the other was empty. Besides, if students only participated in one club, its value was the club name itself. Bob thought that it was reasonable for the value of a 'club' to be an empty array. Thus, he dismissed the empty value issue. As for the inconsistent data type issue, he configured the parameters of a recommended transformation that splits a string into an array in the data cleansing panel. After previewing the transformation result, he clicked the Confirm button to employ the transformation.
+
+Bob then focused on the hierarchical key issue detected in the three 'birth' nodes. He intended to merge these nodes into a single string so that it could be converted to a date. When he inspected the detailed information of the issue, he suddenly discovered that there was a 'birth_month' whose string length was 2 while the others were 3. After checking the category frequency bar chart, he found that the month with two characters was 'Fe', which might be an incorrect abbreviation for February. Therefore, he selected and right-clicked the 'birth_month' node to identify a new issue, namely an inconsistent value. Then he fixed the issue by replacing 'Fe' with 'Feb'. At last, to repair the hierarchical key issue, he created a new node 'birthdate' by concatenating the three 'birth' nodes. 
+
+For the course scores, Bob found the 'secScore' node involved a missing key issue and the child nodes of 'scores' involved missing value.
+He noticed that the two nodes were the keys of major courses. To figure out which courses were missing 'secScore', he increased the dict similarity threshold to 1. After regenerating the schema, he found the two issues stemmed from the course 'Experiments and Practice'.
+Therefore, he deleted the course to fix the two issues. 
+
+All performed transformations were recorded in the cleansing history view for users to recall or document. Finally, Bob exported the cured data for the downstream analysis task.
+
+
+
+
+
+
+
+
+
+
+
+

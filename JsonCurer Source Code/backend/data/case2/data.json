@@ -1,0 +1,9 @@
+[{
+    "title": "The Godfather",
+    "genres": ["Crime", "Drama"],
+    "score": { "rating": 9.2 }
+}, {
+    "title": "Othello",
+    "genre": ["Romance"],
+    "score": { "rating": "6.9" }
+}]
